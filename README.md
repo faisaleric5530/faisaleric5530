@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Faisal Shaik
+# 👋 Hey, I'm Faisal Ahamed Shaik
 
 ### Full Stack Developer • React.js • Next.js • TypeScript • Node.js
 
