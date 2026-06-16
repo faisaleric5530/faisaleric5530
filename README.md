@@ -1,15 +1,24 @@
-# <div align="center">
+<div align="center">
 
 # 👋 Hey, I'm Faisal Shaik
 
-### Full Stack Developer | React.js • Next.js • TypeScript • Node.js
+### Full Stack Developer • React.js • Next.js • TypeScript • Node.js
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Enterprise+Applications;Performance+%26+UX+Focused+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Enterprise+Applications;Full+Stack+Developer+from+India;React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Performance+Driven+%26+User+Focused" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/faisal-ahamed-shaik)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:faisalshaik.dev@gmail.com)
+<a href="mailto:faisalshaik.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/faisal-ahamed-shaik">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=faisaleric5530&label=Profile%20Views&color=0e75b6&style=flat-square" />
 
 </div>
 
@@ -17,38 +26,27 @@
 
 ## 🚀 About Me
 
-```ts
+```typescript
 const faisal = {
-  location: "Hyderabad, India 🇮🇳",
   role: "Full Stack Developer",
   company: "DEzen Technology Solutions",
   experience: "3+ Years",
-  
-  frontend: [
-    "React.js",
-    "Next.js",
-    "TypeScript",
-    "JavaScript",
-    "Tailwind CSS"
-  ],
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "PostgreSQL",
-    "MongoDB",
-    "Redis",
-    "RabbitMQ"
-  ],
-
-  currentFocus: [
-    "Scalable Architectures",
+  specialties: [
+    "Enterprise Web Applications",
     "Performance Optimization",
-    "Microservices",
-    "Developer Experience"
+    "Microservices Architecture",
+    "Scalable Frontend Systems"
   ],
 
-  funFact: "Improved Lighthouse Score from 65 → 95 🚀"
+  achievement:
+    "Improved Lighthouse Score from 65 → 95",
+
+  currentlyLearning: [
+    "System Design",
+    "Cloud Architecture",
+    "AI Integrations"
+  ]
 };
 ```
 
@@ -59,34 +57,44 @@ const faisal = {
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
-### Backend
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis" />
 </p>
 
-### DevOps & Tools
+### Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 </p>
+
+<br/>
+
+### Additional Expertise
+
+`RabbitMQ` • `JWT` • `OAuth` • `REST APIs` • `Microservices`
+
+`Sequelize ORM` • `SSR` • `Foxit SDK` • `EJS`
+
+`Code Splitting` • `Lazy Loading` • `SEO` • `Lighthouse`
 
 ---
 
-## 🏆 Highlights
+## 🏆 Professional Highlights
 
-✅ Built enterprise-grade applications used in production
+✨ Built and maintained enterprise-grade applications in production
 
-✅ Designed authentication & authorization systems using JWT/OAuth
+✨ Developed secure authentication systems using JWT & OAuth
 
-✅ Developed real-time dashboards and reporting systems
+✨ Designed scalable backend APIs and microservices
 
-✅ Improved production Lighthouse score from **65 → 95**
+✨ Optimized application performance and Core Web Vitals
 
-✅ Worked with SSR, Microservices, Message Queues & Database Optimization
+✨ Delivered real-time dashboards and analytics platforms
 
 ---
 
@@ -94,63 +102,48 @@ const faisal = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisaleric5530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisaleric5530&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaleric5530&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaleric5530&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=faisaleric5530&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=faisaleric5530&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisaleric5530&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisaleric5530&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 💼 Expertise
+## 🎯 Current Focus
 
-| Area           | Technologies                             |
-| -------------- | ---------------------------------------- |
-| Frontend       | React.js, Next.js, TypeScript            |
-| Backend        | Node.js, Express.js                      |
-| Databases      | PostgreSQL, MongoDB, Redis               |
-| Architecture   | Microservices, SSR                       |
-| Authentication | JWT, OAuth                               |
-| Messaging      | RabbitMQ                                 |
-| ORM            | Sequelize                                |
-| Performance    | Lighthouse, Lazy Loading, Code Splitting |
-| Documentation  | Foxit SDK, EJS                           |
+* Building scalable SaaS products
+* Advanced React & Next.js architecture
+* High-performance frontend engineering
+* Distributed systems & microservices
+* AI-powered web experiences
 
 ---
 
-## 🎯 Current Goals
-
-* Building scalable SaaS applications
-* Exploring AI integrations in enterprise products
-* Advanced system design and architecture
-* Performance optimization at scale
-
----
-
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:faisalshaik.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/faisal-ahamed-shaik">
@@ -163,8 +156,6 @@ const faisal = {
 
 <div align="center">
 
-### ⚡ "First solve the problem. Then write the code."
-
-<img src="https://komarev.com/ghpvc/?username=faisaleric5530&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+### 💭 “First solve the problem. Then write the code.”
 
 </div>
