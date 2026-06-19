@@ -8,6 +8,48 @@
 
 <br/>
 
+# Faisal Ahamed Shaik
+
+**Fullstack Developer** | Hyderabad, India | `faisalshaik.dev@gmail.com`
+
+## What I Do
+
+I build enterprise web applications end-to-end — from React.js frontends to Node.js microservices. 
+3+ years shipping production systems for government and industrial clients.
+
+### 🛠 Tech Stack
+
+**Frontend:** React.js · TypeScript · Next.js · Tailwind CSS · ECharts · TanStack Query  
+**Backend:** Node.js · Express.js · PostgreSQL · Sequelize ORM · RESTful APIs  
+**Infrastructure:** Docker · Redis · RabbitMQ · Microservices · AWS S3  
+**Auth & Security:** JWT · RBAC · OAuth 2.0 · Argon2 · Zod Validation  
+**AI-Augmented Dev:** Claude Code · GitHub Copilot · MCP (Model Context Protocol)  
+
+### 🚀 Featured Projects
+
+**AWN — UAE Government Compliance Portal**  
+11 frontend portals · 5 microservices · CRM & Workflow modules · JWT + RBAC auth · EN/AR bilingual support
+
+**Galfar EDMS — Enterprise Document Management System**  
+Foxit Web SDK integration · Multi-stage IDC review workflows · Digital document stamping · Project analytics
+
+**LIMS — Calibration Management System**  
+Digital signatures · EJS PDF reports with uncertainty calculations · FDA 21 CFR Part 11 compliance · ISO 17025 audit trails
+
+### 💡 AI-Augmented Development
+
+I leverage AI tools to ship faster and cleaner:
+- **Claude Code** — Full legacy codebase transformations, theme/UI overhauls, logic optimization
+- **GitHub Copilot** — Accelerated component development, boilerplate reduction, pattern suggestions
+- **MCP (Model Context Protocol)** — Exploring intelligent tool integrations for developer workflows
+
+### 📫 Reach Me
+
+- LinkedIn: [linkedin.com/in/faisal-ahamed-shaik](https://linkedin.com/in/faisal-ahamed-shaik)
+- Email: faisalshaik.dev@gmail.com
+
+<br/>
+
 <a href="mailto:faisalshaik.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
