@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Faisal Ahamed Shaik
 
-### Full Stack Developer • React.js • Next.js • TypeScript • Node.js
+### Full-Stack Developer | React • TypeScript • Node.js • PostgreSQL | 3+ Years of Enterprise Software Development in Compliance, EDMS & Laboratory Management
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Enterprise+Applications;Full+Stack+Developer+from+India;React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Performance+Driven+%26+User+Focused" />
 
