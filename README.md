@@ -1,161 +1,23 @@
-<div align="center">
+# Faisal Ahamed Shaik
+**Full Stack AI Engineer** at Dezen Technology Solutions · Hyderabad, India · Open to AI Engineer roles
 
-# 👋 Hey, I'm Faisal Ahamed Shaik
+I build LLM features into production web apps: RAG pipelines, provider-agnostic LLM backends and the React/Node products around them. 3 years shipping enterprise software (UAE government compliance, document management, FDA-regulated lab systems).
 
-### Full-Stack Developer | React • TypeScript • Node.js • PostgreSQL | 3+ Years of Enterprise Software Development in Compliance, EDMS & Laboratory Management
+## Featured builds
+| Project | What it shows | Stack |
+|---|---|---|
+| [Turium AI Knowledge Inbox](https://github.com/faisaleric5530/turium-ai-knowledge-inbox) | RAG with cited answers, relevance-threshold guardrail, async ingestion, 82 tests | FastAPI, nomic-embed, SQLite vectors, React, TanStack Query |
+| [HikmahAI](https://github.com/faisaleric5530/HikmahAI_Server) | Swap OpenAI / Claude with one env var, RBAC, persisted chat sessions | Express, Sequelize, PostgreSQL, Zod, TypeScript |
+| Growlync (private, built at Dezen) | 6-service platform, semantic ICP matching across up to 500 contacts per request | FastAPI, Node.js, FAISS, ChromaDB, bge embeddings |
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Enterprise+Applications;Full+Stack+Developer+from+India;React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Performance+Driven+%26+User+Focused" />
+## Stack
+- **AI:** LangChain · OpenAI & Anthropic APIs · Oracle AI Agents SDK · RAG · Embeddings · FAISS / ChromaDB · MCP
+- **Backend:** Node.js · Express · FastAPI · PostgreSQL · MongoDB · Redis · RabbitMQ
+- **Frontend:** React · Next.js · TypeScript · Tailwind · Micro Frontends
+- **Ops:** Docker · GitHub Actions · AWS
 
-<br/>
+## Certification
+[Oracle Agentic AI Certified Foundations Associate (2026)](https://github.com/faisaleric5530/OracleAgenticAICourse/tree/main/Certifications)
 
-<a href="mailto:faisalshaik.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/faisal-ahamed-shaik">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=faisaleric5530&label=Profile%20Views&color=0e75b6&style=flat-square" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-```typescript
-const faisal = {
-  role: "Full Stack Developer",
-  company: "DEzen Technology Solutions",
-  experience: "3+ Years",
-
-  specialties: [
-    "Enterprise Web Applications",
-    "Performance Optimization",
-    "Microservices Architecture",
-    "Scalable Frontend Systems"
-  ],
-
-  achievement:
-    "Improved Lighthouse Score from 65 → 95",
-
-  currentlyLearning: [
-    "System Design",
-    "Cloud Architecture",
-    "AI Integrations"
-  ]
-};
-```
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-</p>
-
-<br/>
-
-### Additional Expertise
-
-`RabbitMQ` • `JWT` • `OAuth` • `REST APIs` • `Microservices`
-
-`Sequelize ORM` • `SSR` • `Foxit SDK` • `EJS`
-
-`Code Splitting` • `Lazy Loading` • `SEO` • `Lighthouse`
-
----
-
-## 🏆 Professional Highlights
-
-✨ Built and maintained enterprise-grade applications in production
-
-✨ Developed secure authentication systems using JWT & OAuth
-
-✨ Designed scalable backend APIs and microservices
-
-✨ Optimized application performance and Core Web Vitals
-
-✨ Delivered real-time dashboards and analytics platforms
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faisaleric5530&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaleric5530&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=faisaleric5530&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faisaleric5530&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-* Building scalable SaaS products
-* Advanced React & Next.js architecture
-* High-performance frontend engineering
-* Distributed systems & microservices
-* AI-powered web experiences
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:faisalshaik.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/faisal-ahamed-shaik">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 “First solve the problem. Then write the code.”
-
-</div>
+## Elsewhere
+[LinkedIn](https://www.linkedin.com/in/faisal-ahamed-shaik/) · faisalshaik.dev@gmail.com
