@@ -7,7 +7,7 @@ I build LLM features into production web apps: RAG pipelines, provider-agnostic 
 | Project | What it shows | Stack |
 |---|---|---|
 | [Turium AI Knowledge Inbox](https://github.com/faisaleric5530/turium-ai-knowledge-inbox) | RAG with cited answers, relevance-threshold guardrail, async ingestion, 82 tests | FastAPI, nomic-embed, SQLite vectors, React, TanStack Query |
-| [HikmahAI](https://github.com/faisaleric5530/HikmahAI_Server) | Swap OpenAI / Claude with one env var, RBAC, persisted chat sessions | Express, Sequelize, PostgreSQL, Zod, TypeScript |
+| [HikmahAI](https://github.com/faisaleric5530/HikmahAI_Server) | Built at the Algorism 2026 AI hackathon: swap OpenAI / Claude with one env var, RBAC, persisted chat sessions | Express, Sequelize, PostgreSQL, Zod, TypeScript |
 | Growlync (private, built at Dezen) | 6-service platform, semantic ICP matching across up to 500 contacts per request | FastAPI, Node.js, FAISS, ChromaDB, bge embeddings |
 
 ## Stack
@@ -16,8 +16,9 @@ I build LLM features into production web apps: RAG pipelines, provider-agnostic 
 - **Frontend:** React · Next.js · TypeScript · Tailwind · Micro Frontends
 - **Ops:** Docker · GitHub Actions · AWS
 
-## Certification
-[Oracle Agentic AI Certified Foundations Associate (2026)](https://github.com/faisaleric5530/OracleAgenticAICourse/tree/main/Certifications)
+## Certifications & hackathons
+- [Oracle Agentic AI Certified Foundations Associate](https://github.com/faisaleric5530/OracleAgenticAICourse/tree/main/Certifications) (Oracle, Jul 2026, credential 329803722AAI26OFA)
+- Algorism 2026 AI Hackathon participant, 26 Jul 2026, Whatfix Towers, HSR Layout: built [HikmahAI](https://github.com/faisaleric5530/HikmahAI_Server)
 
 ## Elsewhere
 [LinkedIn](https://www.linkedin.com/in/faisal-ahamed-shaik/) · faisalshaik.dev@gmail.com
